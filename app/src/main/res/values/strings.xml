@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StauDodge</string>
+
+    <string name="priority">Priority:</string>
+    <string name="title">Title:</string>
+    <string name="description">Description:</string>
+    <string name="category">Category:</string>
+
+    <string name="update">Update</string>
+    <string name="sort">Sort by priority</string>
+
+    <string name="permission_denied">The app needs permission to work, try again</string>
+    <string name="permission_granted">Permission Granted</string>
+
+    <string name="nr_of_incidents">Number of incidents:</string>
+
+</resources>
